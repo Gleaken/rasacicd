@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "lXrX88xNJ6M=",
+  "dgSpecHash": "RpyrfYmHg+U=",
   "success": true,
   "projectFilePath": "/home/janusz/projects/rasacicd/src/RasaCicd.API/RasaCicd.API.csproj",
   "expectedPackageFiles": [
     "/home/janusz/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
-    "/home/janusz/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+    "/home/janusz/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/home/janusz/.nuget/packages/microsoft.openapi/2.4.1/microsoft.openapi.2.4.1.nupkg.sha512",
+    "/home/janusz/.nuget/packages/swashbuckle.aspnetcore/10.1.4/swashbuckle.aspnetcore.10.1.4.nupkg.sha512",
+    "/home/janusz/.nuget/packages/swashbuckle.aspnetcore.swagger/10.1.4/swashbuckle.aspnetcore.swagger.10.1.4.nupkg.sha512",
+    "/home/janusz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.1.4/swashbuckle.aspnetcore.swaggergen.10.1.4.nupkg.sha512",
+    "/home/janusz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.1.4/swashbuckle.aspnetcore.swaggerui.10.1.4.nupkg.sha512"
   ],
   "logs": []
 }
