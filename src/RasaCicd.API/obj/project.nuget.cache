@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lXrX88xNJ6M=",
+  "success": true,
+  "projectFilePath": "/home/janusz/projects/rasacicd/src/RasaCicd.API/RasaCicd.API.csproj",
+  "expectedPackageFiles": [
+    "/home/janusz/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/home/janusz/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
